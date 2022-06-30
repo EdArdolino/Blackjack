@@ -1,12 +1,14 @@
-# Blackjack
+## Blackjack
 
 A simple command line Blackjack game
 
-To start the game:
+To download Blackjack.py:
+1. Clone the repo: `git clone https://github.com/EdArdolino/Blackjack.git`
+2. Naviage into the directory `cd Blakjack`
 
-1. Navigate to where the game is stored
-2. Open a terminal (Powershell, CDM, etc.) in the Blackjack.py location
-3. Enter: python Blackjack.py
-4. Example: C:\Users\Admin\Documents\Python\Blackjack python BlackjackGame.py
-5. The game will start, Have fun!
-6. In order to stay or hit you need to be case sensitive. Example: Hit not hit, Stay not stay
+To play Blackjack :
+1. Open a terminal and enter `python Blackjack.py`
+2. Example: 'C:\Users\Admin\Documents\Python\Blackjack' `python BlackjackGame.py`
+3. The game will start, Have fun!
+
+Note: In order to stay or hit you need to be case sensitive. Example: Hit not hit, Stay not stay
